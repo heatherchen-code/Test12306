@@ -13,7 +13,6 @@ public class queryAction_querypage {
 	public static void executegetText(WebDriver driver)throws Exception {
 		QueryPage qp = new QueryPage(driver);
 		
-		
         }
 	//	return qp.getText(driver);
 		

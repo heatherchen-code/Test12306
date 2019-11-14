@@ -43,10 +43,6 @@ public class LoginPage {
 	        js.executeScript("arguments[0].scrollIntoView();", element);
 	    }
 	
-	
-	
-	
-	
 	public WebElement fromStation() throws Exception{
 		element = driver.findElement(objectMap.getLocator("LoginPage.fromStationText"));
 			

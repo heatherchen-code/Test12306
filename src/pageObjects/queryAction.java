@@ -56,8 +56,6 @@ public class queryAction {
 		element2.sendKeys(Keys.ENTER);
 		//element2.click();
 		
-		
-		
 	}
 	/*public static void main(String[] args) throws Exception{
 		WebDriver driver;
